@@ -75,6 +75,6 @@ a {
   position: absolute;
   color: white;
   text-align: center;
-  margin-top: 40%;
   font-size: 200%;
+  top: 600px;
 }
